@@ -1,0 +1,16 @@
+{
+  "name": "03-node-basis",
+  "version": "0.0.1",
+  "description": "Its a simple multiply table with a file text. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base5": "node app -number=5"
+  },
+  "author": "Emmanuel Alanis",
+  "license": "MIT ",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
