@@ -8,7 +8,7 @@ const argv = require('yargs')
                 .option('l', {
                     alias: 'list',
                     type: 'boolean',
-                    default: false,
+                    default: true,
                     describe: 'Show a graphical list of the result.'
                 })
                 .option('u', {
